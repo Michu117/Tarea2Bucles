@@ -4,25 +4,25 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 ## Estructura del Repositorio 
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 1. **Suma de los dígitos de un número** 
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_digitos/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_digitos/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_digitos/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_digitos/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/do_while.c)
 2. **Inverso de un número**
-- `for`: `Tarea2Bucles/ejerciciosT2/inverso_numero/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/inverso_numero/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/inverso_numero/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/inverso_numero/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/inverso_numero/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/inverso_numero/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/inverso_numero/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/inverso_numero/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/inverso_numero/do_while.c)
 3. **Potencia mediante sumas sucesivas**
-- `for`: `Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/potencia_ssucesivas/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/potencia_ssucesivas/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/potencia_ssucesivas/do_while.c)
 4. **Radicación mediante restas sucesivas**
-- `for`: `Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/radicacion_rsucesivas/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/radicacion_rsucesivas/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/radicacion_rsucesivas/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/radicacion_rsucesivas/do_while.c)
 5. **Serie de Fibonacci**
-- `for`: `Tarea2Bucles/ejerciciosT2/serie_fibonacci/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/serie_fibonacci/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/serie_fibonacci/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/serie_fibonacci/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/serie_fibonacci/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/serie_fibonacci/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/serie_fibonacci/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/serie_fibonacci/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/serie_fibonacci/do_while.c)
 6. **Factorial de un número**
 - `for`: `Tarea2Bucles/ejerciciosT2/factorial_numero/for.c` 
 - `while`: `Tarea2Bucles/ejerciciosT2/factorial_numero/while.c` 
