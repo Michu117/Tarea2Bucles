@@ -36,9 +36,9 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 - `while`: [`Tarea2Bucles/ejerciciosT2/producto_sgeometrica/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/producto_sgeometrica/while.c) 
 - `do while`: [`Tarea2Bucles/ejerciciosT2/producto_sgeometrica/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/producto_sgeometrica/do_while.c)
 9. **Número de dígitos de un número**
-- [`for`: `Tarea2Bucles/ejerciciosT2/ndigitos_numero/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/for.c) 
-- [`while`: `Tarea2Bucles/ejerciciosT2/ndigitos_numero/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/while.c) 
-- [`do while`: `Tarea2Bucles/ejerciciosT2/ndigitos_numero/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/do_while.c)
+- `for`: [`Tarea2Bucles/ejerciciosT2/ndigitos_numero/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/ndigitos_numero/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/ndigitos_numero/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/ndigitos_numero/do_while.c)
 10. **Verificar si un número es primo**
 - `for`: [`Tarea2Bucles/ejerciciosT2/verificarn_primo/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/verificarn_primo/for.c) 
 - `while`: [`Tarea2Bucles/ejerciciosT2/verificarn_primo/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/verificarn_primo/while.c) 
