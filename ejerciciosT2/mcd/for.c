@@ -6,7 +6,7 @@ int main() {
     int i;
     int mcd;
 
-    // Leer dos números
+    // Presento un mensaje con printf para que el usuario ingrese dos números y los guardo con scanf //
     printf("Ingrese el primer número: ");
     scanf("%d", &num1);
     printf("Ingrese el segundo número: ");
