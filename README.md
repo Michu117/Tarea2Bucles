@@ -5,11 +5,11 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 1. **Suma de los dígitos de un número** 
 - `for`: https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/for.c 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/do_while.c`
+- `while`: https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/while.c 
+- `do while`: https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/do_while.c
 2. **Inverso de un número**
-- `for`: `Tarea2Bucles/ejerciciosT2/inverso_numero/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/inverso_numero/while.c` 
+- `for`: https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/inverso_numero/for.c 
+- `while`: [`Tarea2Bucles/ejerciciosT2/inverso_numero/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/inverso_numero/for.c) 
 - `do while`: `Tarea2Bucles/ejerciciosT2/inverso_numero/do_while.c`
 3. **Potencia mediante sumas sucesivas**
 - `for`: `Tarea2Bucles/ejerciciosT2/potencia_ssucesivas/for.c` 
