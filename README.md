@@ -4,7 +4,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 ## Estructura del Repositorio 
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 1. **Suma de los dígitos de un número** 
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_digitos/for.c` 
+- `for`: `https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_digitos/for.c` 
 - `while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/while.c` 
 - `do while`: `Tarea2Bucles/ejerciciosT2/suma_digitos/do_while.c`
 2. **Inverso de un número**
