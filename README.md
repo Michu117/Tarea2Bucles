@@ -44,42 +44,42 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 - `while`: [`Tarea2Bucles/ejerciciosT2/verificarn_primo/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/verificarn_primo/while.c) 
 - `do while`: [`Tarea2Bucles/ejerciciosT2/verificarn_primo/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/verificarn_primo/do_while.c)
 11. **Encontrar el MCD (Máximo Común Divisor)**
-- `for`: `Tarea2Bucles/ejerciciosT2/mcd/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/mcd/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/mcd/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/mcd/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/mcd/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/mcd/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/mcd/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/mcd/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/mcd/do_while.c)
 12. **Sumar los números impares hasta n**
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_imparesn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_imparesn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_imparesn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_imparesn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_imparesn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_imparesn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_imparesn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_imparesn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_imparesn/do_while.c)
 13. **Sumar los números pares hasta n**
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_paresn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_paresn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_paresn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_paresn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_paresn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_paresn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_paresn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_paresn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_paresn/do_while.c)
 14. **Suma de los cuadrados de los primeros n números**
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_cuadradosn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_cuadradosn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_cuadradosn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_cuadradosn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cuadradosn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_cuadradosn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cuadradosn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_cuadradosn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cuadradosn/do_while.c)
 15. **Suma de los cubos de los primeros n números**
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_cubosn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_cubosn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_cubosn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_cubosn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cubosn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_cubosn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cubosn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_cubosn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_cubosn/do_while.c)
 16. **Suma de una serie de números fraccionarios**
-- `for`: `Tarea2Bucles/ejerciciosT2/sumas_fraccion/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/sumas_fraccion/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/sumas_fraccion/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/sumas_fraccion/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/sumas_fraccion/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/sumas_fraccion/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/sumas_fraccion/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/sumas_fraccion/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/sumas_fraccion/do_while.c)
 17. **Producto de una serie de números fraccionarios**
-- `for`: `Tarea2Bucles/ejerciciosT2/productos_fraccion/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/productos_fraccion/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/productos_fraccion/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/productos_fraccion/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/productos_fraccion/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/productos_fraccion/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/productos_fraccion/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/productos_fraccion/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/productos_fraccion/do_while.c)
 18. **Contar los números primos hasta n**
-- `for`: `Tarea2Bucles/ejerciciosT2/contar_primosn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/contar_primosn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/contar_primosn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/contar_primosn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/contar_primosn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/contar_primosn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/contar_primosn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/contar_primosn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/contar_primosn/do_while.c)
 19. **Calcular el n-ésimo número triangular**
-- `for`: `Tarea2Bucles/ejerciciosT2/enesimon_triangular/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/enesimon_triangular/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/enesimon_triangular/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/enesimon_triangular/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/enesimon_triangular/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/enesimon_triangular/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/enesimon_triangular/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/enesimon_triangular/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/enesimon_triangular/do_while.c)
 20. **Calcular la suma de los factoriales de los primeros n números**
-- `for`: `Tarea2Bucles/ejerciciosT2/suma_factorialesn/for.c` 
-- `while`: `Tarea2Bucles/ejerciciosT2/suma_factorialesn/while.c` 
-- `do while`: `Tarea2Bucles/ejerciciosT2/suma_factorialesn/do_while.c`
+- `for`: [`Tarea2Bucles/ejerciciosT2/suma_factorialesn/for.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_factorialesn/for.c) 
+- `while`: [`Tarea2Bucles/ejerciciosT2/suma_factorialesn/while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_factorialesn/while.c) 
+- `do while`: [`Tarea2Bucles/ejerciciosT2/suma_factorialesn/do_while.c`](https://github.com/Michu117/Tarea2Bucles/blob/main/ejerciciosT2/suma_factorialesn/do_while.c)
